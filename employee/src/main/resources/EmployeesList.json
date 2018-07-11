@@ -1,0 +1,66 @@
+[
+  {
+    "id": "KCEOCK",
+    "firstName": "Christopher",
+    "middleInitial": "",
+    "lastName": "Kilmer",
+    "dateOfBirth": "05/17/1970",
+    "dateOfEmployment": "01/01/2004"
+  },
+  {
+    "id": "KHATGC",
+    "firstName": "Guy",
+    "middleInitial": "",
+    "lastName": "Cohen",
+    "dateOfBirth": "10/23/1979",
+    "dateOfEmployment": "07/01/2017"
+  },
+  {
+    "id": "KCTOJS",
+    "firstName": "Jon",
+    "middleInitial": "",
+    "lastName": "Stockdill",
+    "dateOfBirth": "04/09/1977",
+    "dateOfEmployment": "01/07/2005"
+  },
+  {
+    "id": "KEVPML",
+    "firstName": "Ming",
+    "middleInitial": "L",
+    "lastName": "Linsley",
+    "dateOfBirth": "02/06/1976",
+    "dateOfEmployment": "03/17/2014"
+  },
+  {
+    "id": "KSVPDS",
+    "firstName": "David",
+    "middleInitial": "",
+    "lastName": "Stenglein",
+    "dateOfBirth": "09/23/1976",
+    "dateOfEmployment": "10/05/2008"
+  },
+  {
+    "id": "KSVPCM",
+    "firstName": "Craig",
+    "middleInitial": "",
+    "lastName": "Martin",
+    "dateOfBirth": "05/17/1983",
+    "dateOfEmployment": "10/15/2014"
+  },
+  {
+    "id": "KTCOCW",
+    "firstName": "Carlin",
+    "middleInitial": "",
+    "lastName": "Weirick",
+    "dateOfBirth": "12/04/1984",
+    "dateOfEmployment": "11/22/2017"
+  },
+  {
+    "id": "KDOECC",
+    "firstName": "Cesar",
+    "middleInitial": "A",
+    "lastName": "Colin",
+    "dateOfBirth": "08/02/1973",
+    "dateOfEmployment": "08/13/2018"
+  }
+]
